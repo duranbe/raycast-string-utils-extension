@@ -1,1 +1,3 @@
-# raycast-string-utils-extension
+# String Utils
+
+String Utils
